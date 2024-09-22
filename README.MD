@@ -1,7 +1,7 @@
 # Product Management API
 
 This is a Node.js-based RESTful API built using **Express** and **MongoDB** (via Mongoose) for managing products. The API supports basic CRUD operations (Create, Read, Update, Delete) for products.
-<u>Made for Learning reasons</u>
+**Made for Learning reasons**
 
 ## Features
 
